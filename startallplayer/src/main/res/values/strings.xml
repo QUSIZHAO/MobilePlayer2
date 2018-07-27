@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StartAllPlayer</string>
+    <string name="click">点击我调起其他播放器</string>
+</resources>
